@@ -1,1 +1,1 @@
-web: gunicorn DepressionPredictorApp:app --log file -
+web: sh setup.sh && streamlit run DepressionPredictorApp.py

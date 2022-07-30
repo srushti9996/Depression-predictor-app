@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/Dell/OneDrive/Desktop/app file/Main Deployment/lr_trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('lr_trained_model.sav', 'rb'))
 
 input_data = (1,44,4,11,0,9.0,150,0,0,0,2)
 

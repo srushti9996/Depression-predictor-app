@@ -67,6 +67,11 @@ This project is used by the:
 - User's are common people 
 
 
+## Application link
+https://mental-health-predictor-app.herokuapp.com/
+
+
+
 ## Authors
 
 - [@Srushti Jambhulkar](https://github.com/srushti9996)
